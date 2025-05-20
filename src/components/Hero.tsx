@@ -24,7 +24,7 @@ const Hero = () => {
               Hemanta Regmi
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold text-muted-foreground">
-              DevOps & Cloud Computing Enthusiast
+              DevOps Enthusiast
             </h2>
             <p className="text-xl text-muted-foreground max-w-md">
               A motivated and disciplined 7<sup>th</sup>-semester BIT student passionate about AWS, CI/CD, automation, and infrastructure as code.

@@ -50,8 +50,8 @@ const SkillsSection = () => {
     },
     {
       icon: <Terminal className="h-5 w-5" />,
-      title: "Infrastructure as Code & Soft Skills",
-      skills: ["Terraform", "AWS CloudFormation", "Communication", "Problem-solving", "Quick Learner"],
+      title: "Infrastructure as Code ",
+      skills: ["Terraform", "AWS CloudFormation"],
     },
   ];
 

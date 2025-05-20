@@ -41,7 +41,7 @@ const SkillsSection = () => {
     {
       icon: <ServerCog className="h-5 w-5" />,
       title: "DevOps Tools",
-      skills: ["Docker", "Kubernetes", "Git", "GitHub/GitLab", "Terraform"],
+      skills: ["Docker", "Kubernetes", "GitHub", "Terraform"],
     },
     {
       icon: <GitBranch className="h-5 w-5" />,
